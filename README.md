@@ -13,4 +13,4 @@ The files are organized as follow:
 1- NMF-LogicalReg.py : This file contains the code for NMF and logical regression method.
 2- FFNN.py: The FFNN code that use Pybrain Python library.
 3- results: This folder contains Reordered consensus matrices of the cancer data and also some of our results.
-
+4- data: some input data
