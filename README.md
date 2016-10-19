@@ -6,6 +6,11 @@ In this project we used matrix factorization technique descibed by Brunet in his
 
 At first step, we used PCA algorithm to select most important features and we used logical regression for classification (NMF-LogicalReg.py). 
 
+The second step contains using Feed Forward Neural Network for classification. The Neural Network contains 5 layers (FFNN.py)
+
 The files are organized as follow:
 
-1- 
+1- NMF-LogicalReg.py : This file contains the code for NMF and logical regression method.
+2- FFNN.py: The FFNN code that use Pybrain Python library.
+3- results: This folder contains Reordered consensus matrices of the cancer data and also some of our results.
+
